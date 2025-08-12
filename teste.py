@@ -77,4 +77,4 @@ print(f'Feminino: {(contFS/(contFS + contFN))*100}% ganhar, {(contFN/(contFS + c
 print(f'Masculino: {(contMS/(contMS + contMN))*100}% ganhar, {(contMN/(contMS + contMN))*100}% perder') 
 
 print(f'Pratica futbol: {(contFuSS/(contFuSS + contFuSN))*100}% ganhar, {(contFuSN/(contFuSS + contFuSN))*100}% perder')
-print(f'Não pratica futbol: {(contFuNS/(contFuNS + contFuNN))*100}% ganhar, {(contFuNN/(contFuNS + contFuNN))*100}% perder') 
+print(f'Não pratica futbol: {(contFuNS/(contFuNS + contFuNN))*100}% ganhar, {(contFuNN/(contFuNS + contFuNN))*100}% perder')
