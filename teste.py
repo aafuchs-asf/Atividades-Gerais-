@@ -69,12 +69,12 @@ for i in range (len(gen)):
         contFuNN +=1 
 
 
-print(f'Geração X: {(contXS/(contXS + contXN))*100}% ganhar, {(contXN/(contXS + contXN))*100}% perder')
-print(f'Geração Y: {(contYS/(contYS + contYN))*100}% ganhar, {(contYN/(contYS + contYN))*100}% perder')
-print(f'Geração Z: {(contZS/(contZS + contZN))*100}% ganhar, {(contZN/(contZS + contZN))*100}% perder')
+print(f'Geração X: {(contXS/(contXS + contXN))*100}% ganhar, {(contXN/(contXS + contXN))*100}% perder!t sta')
+print(f'Geração Y: {(contYS/(contYS + contYN))*100}% ganhar, {(contYN/(contYS + contYN))*100}% perder!')
+print(f'Geração Z: {(contZS/(contZS + contZN))*100}% ganhar, {(contZN/(contZS + contZN))*100}% perder!')
 
-print(f'Feminino: {(contFS/(contFS + contFN))*100}% ganhar, {(contFN/(contFS + contFN))*100}% perder')
-print(f'Masculino: {(contMS/(contMS + contMN))*100}% ganhar, {(contMN/(contMS + contMN))*100}% perder') 
+print(f'Feminino: {(contFS/(contFS + contFN))*100}% ganhar, {(contFN/(contFS + contFN))*100}% perder!')
+print(f'Masculino: {(contMS/(contMS + contMN))*100}% ganhar, {(contMN/(contMS + contMN))*100}% perder!') 
 
-print(f'Pratica futbol: {(contFuSS/(contFuSS + contFuSN))*100}% ganhar, {(contFuSN/(contFuSS + contFuSN))*100}% perder')
-print(f'Não pratica futbol: {(contFuNS/(contFuNS + contFuNN))*100}% ganhar, {(contFuNN/(contFuNS + contFuNN))*100}% perder')
+print(f'Pratica futbol: {(contFuSS/(contFuSS + contFuSN))*100}% ganhar, {(contFuSN/(contFuSS + contFuSN))*100}% perder!')
+print(f'Não pratica futbol: {(contFuNS/(contFuNS + contFuNN))*100}% ganhar, {(contFuNN/(contFuNS + contFuNN))*100}% perder!')
